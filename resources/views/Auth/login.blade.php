@@ -16,7 +16,7 @@
 <body class="bg-warning">
     <div class="container">
         <div class="row justify-content-center my-5">
-            <div class="col col-4">
+            <div class="col col-12 col-lg-4">
                 <div class="card o-hidden border-0 shadow-lg my-5">
                     <div class="card-body p-0">
                         <div class="row">
@@ -77,7 +77,7 @@
                 </div>
             </div>
 
-            <div class="col col-4">
+            <div class="col col-12 col-lg-4">
                 <div class="card o-hidden border-0 shadow-lg my-5">
                     <div class="card-body p-0">
                         <div class="row">
